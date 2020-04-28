@@ -1,0 +1,72 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+table {
+  margin:60px solid red;
+  border: 1px solid black;
+  border-collapse:collapse
+ 
+}
+
+form {
+	background-color:georgian;
+	height:80px;
+	
+}
+
+#policy {
+	margin-left:60px;
+	padding:30px;
+	padding-top:20px;
+	background-color:yellow;
+	width:300px
+}
+
+.line {
+	font-family:Aerial;
+	font-size:30px;
+	color:red
+}
+
+p {
+	font-family:Aerial;
+	color:blue
+}
+	
+
+.button {
+  background-color: blue; /* Green */
+  border: 3px solid red;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+th {
+	background-color:yellow
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 15px;
+  text-align: left;
+}
+
+#top {
+	background-color:green;
+	width:300px
+}
+
+#image {
+	margin:70px;
+	padding:50px;
+}
